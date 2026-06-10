@@ -1,0 +1,7 @@
+Invoice Number: INV-1001
+
+Vendor: ABC Corporation
+
+Amount: $2500
+
+Date: 05/01/2026
