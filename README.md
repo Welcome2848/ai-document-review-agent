@@ -1,10 +1,3 @@
-AI Document Review Agent
-Overview
-This project demonstrates an Agentic AI workflow for intelligent document processing.
-The solution simulates how enterprises can automate document review using AI, OCR, validation rules, and human review workflows.
-Problem
-Organizations spend thousands of hours manually reviewing invoices, contracts, and business documents.
-Solution
 The AI Document Review Agent:
 •	Reads uploaded documents
 •	Extracts information
