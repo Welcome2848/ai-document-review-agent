@@ -1,0 +1,4 @@
+Invoice Number: INV-1002
+Vendor: XYZ Supplies
+Amount: $4800
+Date: 05/03/2026
